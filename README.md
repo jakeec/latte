@@ -8,11 +8,11 @@ Ever wanted Mocha's `describe`/`it` syntax in Rust? No? Well here it is anyway! 
 describe!(test_suite, {
     it!(does_something, {
         assert_eq!(1, 1);
-    })
+    });
 
     it!(does_something_else, {
         assert!(false);
-    })
+    });
 });
 ```
 
