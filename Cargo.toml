@@ -3,6 +3,11 @@ name = "latte"
 version = "0.1.0"
 authors = ["Jake Carrington <jake.ethan.carrington@gmail.com>"]
 edition = "2018"
+license = "MIT"
+description = "Macro crate that expands Mocha syntax to standard Rust syntax"
+repository = "https://github.com/jakeec/latte"
+homepage = "https://github.com/jakeec/latte"
+keywords = ["macros", "macro_rules", "tests", "testing", "mocha"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
